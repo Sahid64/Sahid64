@@ -44,11 +44,9 @@ Construyo proyectos, aprendo nuevas tecnologías y desarrollo soluciones de soft
 
 | Proyecto | Descripción |
 |---|---|
-| [rpi-faceid](https://github.com/Sahid64/rpi-faceid) | Reconocimiento facial y control de acceso basado en Raspberry Pi. |
+| [rpi-faceid](https://github.com/Sahid64/rpi-faceid) | Sistema de reconocimiento facial y control de acceso basado en Raspberry Pi. |
 | [Blog](https://github.com/Sahid64/Blog) | Proyecto de desarrollo web para un blog. |
-| [PRODCONS](https://github.com/Sahid64/PRODCONS) | Proyecto web. |
-| [OxyFender](https://github.com/Sahid64/OxyFender) | Proyecto desarrollado en Python. |
-| [PI-CRUD](https://github.com/Sahid64/PI-CRUD) | Proyecto CRUD desarrollado con JavaScript. |
+| **Aplicación móvil + plataforma web** | Proyecto en desarrollo que integra una aplicación móvil y una plataforma web interconectadas. Próximamente compartiré más detalles. |
 | [Bote-de-basura-inteligente](https://github.com/Sahid64/Bote-de-basura-inteligente) | Proyecto relacionado con un bote de basura inteligente. |
 
 ## 📊 Estadísticas de GitHub
