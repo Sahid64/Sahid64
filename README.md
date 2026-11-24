@@ -86,8 +86,6 @@ He utilizado diferentes herramientas de inteligencia artificial como apoyo en el
 
 ## 🚀 Proyectos destacados
 
-## 🚀 Proyectos destacados
-
 | Proyecto | Descripción |
 |---|---|
 | [📱 Axolotl Fitness Club](https://github.com/Sahid64/Axolotl_Fitness_Club) | Aplicación móvil desarrollada en equipo, como parte de un proyecto integrado de gestión de gimnasio. |
